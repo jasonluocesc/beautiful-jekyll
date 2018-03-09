@@ -75,10 +75,10 @@ social-network-links:
   email: "jasonluouestc@163.com"
   facebook: jason.luo.378
   github: jasonluocesc
-  twitter: JasonLuoCC
+#  twitter: JasonLuoCC
 #  reddit: yourname
 #  google-plus: +DeanAttali
-#  linkedin: daattali
+  linkedin: wenbin-luo-534269aa
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -104,7 +104,7 @@ url-pretty: "jasonluocesc.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-115441668-1"
 
 # Google Tag Manager ID
 #gtm: ""
