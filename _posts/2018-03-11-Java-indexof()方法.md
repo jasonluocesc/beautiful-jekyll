@@ -4,7 +4,7 @@ title: Java Indexof()方法
 subtitle:
 tags: [java]
 ---
-
+## 部分转载自[李学凯的CSDN博客](http://blog.csdn.net/qq_27093465/article/details/51832189)
 今天遇到这样一个题目：
 
 假定我们都知道非常高效的算法来检查一个单词是否为其他字符串的子串。请将这个算法编写成一个函数，给定两个字符串s1和s2，请编写代码检查s2是否为s1旋转而成，要求只能调用一次检查子串的函数。
@@ -19,7 +19,7 @@ tags: [java]
 ~~~
 学到了一个新解法就是，重复一遍s1，检验s2是否为s1+s1的子序列即可，很灵巧！
 
-使用String.indexof()即可！
+使用StringindexOf()即可！
 
 ```java
 boolean isRotation(String s1,String s2) {
