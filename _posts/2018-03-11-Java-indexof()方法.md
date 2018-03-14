@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java Indexof()方法
+title: Java IndexOf()方法
 subtitle:
 tags: [java]
 ---
